@@ -2,7 +2,7 @@
 
 This repo stores python programming work from Udemy course. 
 
-Book keeping habits Steps before generating a Pull Request
+Book keeping habits Steps before generating a Pull Request 
 
 - Maintain separate folders for every sections
 - Include README for documentation
